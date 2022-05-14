@@ -39,4 +39,4 @@ jobs:
           file: ./Dockerfile
           push: true
           platforms: linux/amd64
-          tags: ghcr.io/Abhisek2432/docker68:6.0
+          tags: ghcr.io/abhiseksh/docker68:6.0
